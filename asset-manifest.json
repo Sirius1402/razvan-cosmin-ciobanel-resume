@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/razvan-cosmin-ciobanel-resume/static/css/main.cb19f417.chunk.css",
+    "main.css": "/razvan-cosmin-ciobanel-resume/static/css/main.dc4b8ec5.chunk.css",
     "main.js": "/razvan-cosmin-ciobanel-resume/static/js/main.b4eedfb5.chunk.js",
     "main.js.map": "/razvan-cosmin-ciobanel-resume/static/js/main.b4eedfb5.chunk.js.map",
     "runtime-main.js": "/razvan-cosmin-ciobanel-resume/static/js/runtime-main.bf91d28c.js",
@@ -10,14 +10,14 @@
     "static/js/3.6f898816.chunk.js": "/razvan-cosmin-ciobanel-resume/static/js/3.6f898816.chunk.js",
     "static/js/3.6f898816.chunk.js.map": "/razvan-cosmin-ciobanel-resume/static/js/3.6f898816.chunk.js.map",
     "index.html": "/razvan-cosmin-ciobanel-resume/index.html",
-    "static/css/main.cb19f417.chunk.css.map": "/razvan-cosmin-ciobanel-resume/static/css/main.cb19f417.chunk.css.map",
+    "static/css/main.dc4b8ec5.chunk.css.map": "/razvan-cosmin-ciobanel-resume/static/css/main.dc4b8ec5.chunk.css.map",
     "static/js/2.dea847a9.chunk.js.LICENSE.txt": "/razvan-cosmin-ciobanel-resume/static/js/2.dea847a9.chunk.js.LICENSE.txt",
     "static/media/photo.9fb1031f.JPG": "/razvan-cosmin-ciobanel-resume/static/media/photo.9fb1031f.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.bf91d28c.js",
     "static/js/2.dea847a9.chunk.js",
-    "static/css/main.cb19f417.chunk.css",
+    "static/css/main.dc4b8ec5.chunk.css",
     "static/js/main.b4eedfb5.chunk.js"
   ]
 }
