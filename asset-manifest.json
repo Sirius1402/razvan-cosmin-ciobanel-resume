@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/razvan-cosmin-ciobanel-resume/static/css/main.cb19f417.chunk.css",
-    "main.js": "/razvan-cosmin-ciobanel-resume/static/js/main.f27a8651.chunk.js",
-    "main.js.map": "/razvan-cosmin-ciobanel-resume/static/js/main.f27a8651.chunk.js.map",
+    "main.js": "/razvan-cosmin-ciobanel-resume/static/js/main.b4eedfb5.chunk.js",
+    "main.js.map": "/razvan-cosmin-ciobanel-resume/static/js/main.b4eedfb5.chunk.js.map",
     "runtime-main.js": "/razvan-cosmin-ciobanel-resume/static/js/runtime-main.bf91d28c.js",
     "runtime-main.js.map": "/razvan-cosmin-ciobanel-resume/static/js/runtime-main.bf91d28c.js.map",
     "static/js/2.dea847a9.chunk.js": "/razvan-cosmin-ciobanel-resume/static/js/2.dea847a9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bf91d28c.js",
     "static/js/2.dea847a9.chunk.js",
     "static/css/main.cb19f417.chunk.css",
-    "static/js/main.f27a8651.chunk.js"
+    "static/js/main.b4eedfb5.chunk.js"
   ]
 }
