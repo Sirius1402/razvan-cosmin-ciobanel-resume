@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/razvan-cosmin-ciobanel-resume/static/css/main.1ecc0ed2.css",
-    "main.js": "/razvan-cosmin-ciobanel-resume/static/js/main.a4ea6d05.js",
+    "main.js": "/razvan-cosmin-ciobanel-resume/static/js/main.094a7d5c.js",
     "static/js/787.71ea4547.chunk.js": "/razvan-cosmin-ciobanel-resume/static/js/787.71ea4547.chunk.js",
-    "static/media/photo.JPG": "/razvan-cosmin-ciobanel-resume/static/media/photo.c96c47d263b14a00932d.JPG",
+    "static/media/photo.jpg": "/razvan-cosmin-ciobanel-resume/static/media/photo.c96c47d263b14a00932d.jpg",
     "index.html": "/razvan-cosmin-ciobanel-resume/index.html",
     "main.1ecc0ed2.css.map": "/razvan-cosmin-ciobanel-resume/static/css/main.1ecc0ed2.css.map",
-    "main.a4ea6d05.js.map": "/razvan-cosmin-ciobanel-resume/static/js/main.a4ea6d05.js.map",
+    "main.094a7d5c.js.map": "/razvan-cosmin-ciobanel-resume/static/js/main.094a7d5c.js.map",
     "787.71ea4547.chunk.js.map": "/razvan-cosmin-ciobanel-resume/static/js/787.71ea4547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ecc0ed2.css",
-    "static/js/main.a4ea6d05.js"
+    "static/js/main.094a7d5c.js"
   ]
 }
